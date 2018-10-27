@@ -37,7 +37,7 @@ public class MyntraTest {
 	WebDriverWait wait;
 	WebElement Wallet1;
 	String price;
-	
+	//test
 	@BeforeClass
   public void beforeClass() {
 
